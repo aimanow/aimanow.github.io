@@ -1,0 +1,2 @@
+[2019-11-18 23:39:14] layer " evgenija.grigoreva@gmail.com копия": Expected end of input but "\u043A" found.
+[2019-11-18 23:39:14] layer " evgenija.grigoreva@gmail.com": Unsupported extension: com
